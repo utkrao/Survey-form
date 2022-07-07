@@ -169,7 +169,7 @@ form {
 
 .submit-button {
     display: block;
-    width: 100%;
+    width: 25%;
     padding: 0.75rem;
     background: var(--color-green);
     color: inherit;
